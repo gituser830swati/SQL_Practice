@@ -77,8 +77,7 @@ SELECT department, COUNT(department) from worker GROUP BY department HAVING COUN
 
 -- unique 
 -- name varchar(23) unique,
-
--- CHECK 
+ 
 
 
 
